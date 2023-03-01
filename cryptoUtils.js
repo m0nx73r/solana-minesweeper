@@ -2,8 +2,10 @@
 	//const clusterApiUrl = web3.clusterApiUrl('mainnet');
 	// const clusterApiUrl = web3.clusterApiUrl('devnet');
 	// const clusterApiUrl = 'https://ssc-dao.genesysgo.net/'; //mainnet
-	const clusterApiUrl = 'https://psytrbhymqlkfrhudd.dev.genesysgo.net:8899/'; //devnet
-
+	// const clusterApiUrl = 'https://psytrbhymqlkfrhudd.dev.genesysgo.net:8899/'; //devnet
+	const clustApiUrl = 'https://api.devnet.solana.com'; //devnet
+	
+	
 	const generate_test_transac_id = false;
 	//const recipient_pubkey = '..';
 
